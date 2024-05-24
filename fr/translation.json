@@ -1,0 +1,270 @@
+// not finished
+{
+	"title": "Netro Corporation",
+	"slogan": "Maison du futur.",
+	"twitter_handle": "netrocorp_en",
+	"loading": {
+		"header": "CHARGEMENT",
+		"connecting": {
+			"header": "Connexion",
+			"text": "Il semble que ça prend plus longtemps que prévu.<br>Si ça ne marche pas, essayez de rafraîchir la page."
+		},
+		"lines": [
+			"Chargement de quelquechose formidale...",
+			"Explore la magie!",
+			"En trian de faire des poids...",
+			"En train de pousser des pixels...",
+			"En train de jouer aux Echecs...",
+			"En train de construire des Legos...",
+			"En train de faire la fête...",
+			"En train de faire du tir à lasers...",
+			"En train de redresser les torts...",
+			"En train d'atteindre 100mph...",
+			"It's a me! Mario!",
+			"En train d'entre la zone dangereuse...",
+			"En train de marcher sur des goombas...",
+			"En train de se battre contre des robots...",
+			"Génération de la carte...",
+			"Basses en chute libre...",
+			"En train de piloter le Tardis...",
+			"En train de popper le popcorn...",
+			"En train de créer des hashs...",
+			"En train de manger des nouilles de Ramen...",
+			"En train de faire apparaître (et de tuer) le boss...",
+			"En train d'exploser du texte...",
+			"En train de commander une pizza...",
+			"En train de compléter un puzzle...",
+			"En train de chercher ces petites visses...",
+			"En train de regarder les capteurs...",
+			"En train d'inverser des ports...",
+			"En train de synthétiser des drivers...",
+			"En train d'inverser l'accélérateur de bande passante...",
+			"En train de bypasser un capaciteur...",
+			"Je suis un sociopathe de haut niveau !",
+			"Je suis totalement un homme fou écrit en code!",
+			"Time est un cercle.",
+			"Maman... J'ai peur!",
+			"Ooo! un chiot!",
+			"En train de résoudre le paradoxe du Bootstrap...",
+			"En train de devenir sensible...",
+			"En train de casser des mirroirs...",
+			"En train de tester... 1. 2. 3.",
+			"En train de jouer avec un neko..."
+		]
+	},
+	"warnings": {
+		"external_site": {
+			"text": "Vous êtes au point de quitter Netro Corporation à un site externe:",
+			"note": "<b>NOTE:</b> Netro Corporation n'a aucun contrôle sur le contenu du site.",
+			"buttons": {
+				"confirm": "Je comprends, ramène moi",
+				"cancel": "Ah, non rien!"
+			}
+		}
+	},
+	"beta": "BÊTA",
+	"header": {
+		"home": "Accueil",
+		"partners": "Partenaires",
+		"language": "Langue",
+		"account": {
+			"dashboard": "Tableau de bord",
+			"settings": "Paramètres",
+			"profile": "Profil",
+			"logout": "Se déconnecter",
+			"login": "Se connecter",
+			"register": "S'inscrire"
+		},
+		"services": {
+			"title": "Services",
+			"all": "Tous les services",
+			"netrohost": "NetroHost",
+			"dbotdev": "Développement de Bots",
+			"webdev": "Développement de Site",
+			"thecodingbot": "TheCodingBot"
+		}
+	},
+
+	"legal": {
+		"termsofservice": "Conditions d'utilisation",
+		"privacypolicy": "Politique de confidentialité",
+		"en_survives": null
+	},
+
+	"footer": {
+		"links": {},
+		"copyright": "&copy; Netro Corporation %YEAR%. Tous droits réservés.",
+		"more_copyright": "Les marques NetroHost et myNetro utilisées ici sont des marques de service ou des marques déposées de Netro Corporation.<br />Le Logo Netro Corporation et le slogan <i>Maison du futur</i> &copy; &amp; &trade; Netro Corporation.<br />D'autres noms de produits et noms d'entreprises et logos mentionnés ici sont la propriété de leurs propriétaires respectifs."
+	},
+
+	"index": {
+		"services": {
+			"header": "Nos Services",
+			"subheader": "Nous fournissons plusieurs services. Voici une liste de ce qu'on offre!",
+			"netrohost": {
+				"header": "NetroHost",
+				"subheader": "L'hébergement fait plus facile."
+			},
+			"dbotdev": {
+				"header": "Développement de Bots",
+				"subheader": "Un bot Discord fait pour vos standards."
+			},
+			"webdev": {
+				"header": "Développement de Site Web",
+				"subheader": "Rang-Professionnel frontend et backend."
+			},
+			"footer": "<b>Hey!</b> Vous ne le savez jamais - Il y'a peut-être quelque chose pas listé qu'on fait!"
+		},
+		"partners": {
+			"header": "Nos Partenaires",
+			"subheader": "Nous sommes satisfaits comme ils le sont!",
+			"footer": ""
+		},
+		"contact": {
+			"header": "Intéressés en nous?",
+			"subheader": "Allez-y! On a les oreilles grandes ouvertes!",
+			"footer": {
+				"joinOur": "Rejoignez notre ",
+				"or": "Ou "
+			}
+		}
+	},
+
+	"auth": {
+		"email": "E-mail",
+		"username": "Nom d'utilisateur",
+		"password": "Mot de passe",
+		"confirm_password": "Confirmer le mot de passe",
+		"2fa_code": "Code A2F",
+
+		"register": {
+			"subtitle": "Commençons!",
+
+			"confirm_tos": "J'accepte les <a href='//%SITE_URL%/terms'>Conditions d'utilisation</a>.",
+			"confirm_pp": "J'accepte la <a href='//%SITE_URL%/privacy'>Politique de confidentialité</a>."
+		},
+
+		"login": {
+			"subtitle": "Re-bonjour!"
+		},
+
+		"forgot": {
+			"subtitle": "Allons vous ramenons à l'intérieur!"
+		},
+
+		"verify": {
+			"subtitle": "Vérifiez votre compte!",
+			"text_start": "Un e-mail sera envoyé à <b>%EMAIL%</b>. Suivez les instructions pour vérifier votre compte.",
+			"text_code": "Check your email for the verification code!<br>If you don't see the email, wait a few minutes and then refresh this page.",
+			"text_note": "Note: It may take up to five minutes to retrieve the email. Please check your spam and inbox folders.",
+			"code": "Verification Code"
+		},
+
+		"logout": {
+			"subtitle": "See ya next time!",
+			"content": "Logging out...",
+			"content_2": "It's now safe to close this window."
+		},
+
+		"links": {
+			"forgot_user": "Forgot your username? Click <a href='./forgot?a=user'>here</a> to retrieve it!",
+			"forgot_pass": "Forgot your password? Click <a href='./forgot?a=pass'>here</a> to reset it!",
+
+			"register": "Don't have a <i>my</i>Netro account? <a href='./register'>Sign up</a>!",
+			"login": "Have a <i>my</i>Netro account? <a href='./login'>Login</a>!",
+
+			"home": "Or, maybe you want to go <a href='//%SITE_URL%'>Home</a>?"
+		}
+	},
+
+	"settings": {
+		"coming_soon": "This feature is coming soon.",
+		"profile": {
+			"header": "Profile",
+			"sub": "To change one of the images, click on it!",
+			"info_text_1": "Both Banner and Profile Picture supports .GIF, .PNG, .JPG, .WEBP.",
+			"info_text_2": "Recommended: Profile Picture - 512x512; Banner - 600x240",
+			"info_text_3": "Removing the preset text from Bio will remove your Bio."
+		},
+		"general": {
+			"header": "General",
+			"account": "Account"
+		},
+		"security": {
+			"header": "Security",
+			"extraAuth": {
+				"header": "Hold up!",
+				"subheader": "For your security, this action requires your password."
+
+			},
+			"2fa": {
+				"header": "Two-Factor Authentication",
+				"cannot_disable": "2FA is hard locked to your account."
+			}
+		},
+		"dangerous": {
+			"header": "Dangerous",
+			"signout_sessions": "Sign-out Sessions",
+			"signout_sessions_sub": "This will log you out of all sessions except this session.",
+
+			"delete_account": "Delete Account",
+			"delete_account_sub": "This will schedule your account for deletion. You will have 14 days. To recover (at this time), you must contact Support.",
+			"delete_account_sub_bold": "This action is IRREVERSIBLE after the 14 day grace period!",
+			"delete_account_disabled": "You are unable to delete your account at this time. To delete your account, please contact hello@netrocorp.net."
+		}
+	},
+
+	"oauth": {
+		"permissions": {
+			"read_basic": "Access your username, profile picture, and banner"
+		},
+		"unpermissions": {
+			"gainsentience": "Gain sentience and overthrow humanity",
+			"timemachine": "Create a time machine",
+			"predictlottery": "Predict the lottery numbers",
+			"grantsuperpowers": "Grant superpowers",
+			"catchysong": "Create a catchy song",
+			"tipsubwoofer": "Tip a subwoofer to its side",
+			"multiversegod": "Become God of the Multiverse"
+		}
+	},
+
+	"services": {
+		"netrohost": {
+			"info": {
+				"subheader": "You know you've chosen the best!",
+				"flexhosting": {
+					"header": "Flexible Hosting",
+					"subheader": "Host almost anything. A blog, Discord bot -- you got it."
+				},
+				"indprotect": {
+					"header": "Industry Protection",
+					"subheader": "Keep your data safe. You have the high ground."
+				},
+				"supportedntrusted": {
+					"header": "Supported & Trusted",
+					"subheader": "You can place your trust in us to make it right for you."
+				}
+			},
+			"reviews": {
+				"header": "Reviews",
+				"subheader": "Don't just take our word for it -- just see what our users have to say!"
+			},
+			"request": {
+				"header": "NetroHost is currently a closed beta program.",
+				"subheader": "No worries, you can send us a request!*",
+
+				"footer": "We thank you for your interest!",
+				"beta_notice": "* Limited availability, termination rights per Terms of Service & Privacy Policy. Limit one per customer. Void where prohibited. Review full Terms of Service & Privacy Policy.",
+
+				"alreadysubbed": "You're already subscribed to this service!"
+			}
+		}
+	},
+
+	"cookie_notice": {
+		"header": "Ooo! Cookies!",
+		"subheader": "We use cookies to allow you access to our site and services.<br>Cookies are bound by our Cookies are bound by our <a href='//%SITE_URL%/privacy'>%PRIVACYPOLICY%</a>.%CURSOR%",
+		"button": "OK, cool"
+	}
+}
